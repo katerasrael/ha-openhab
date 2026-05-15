@@ -9,7 +9,7 @@
 [![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
 
-Forked from `https://github.com/kubawolanin/ha-openhab`
+Forked from https://github.com/kubawolanin/ha-openhab
 
 
 _Component to integrate with [openHAB][openHAB]._
